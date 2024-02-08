@@ -19,6 +19,12 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 #sim {
   height: 40px;
   width: 60px;
@@ -74,8 +80,6 @@ img {
   margin: 9% auto;
   display: block;
 }
-
-/* TESTES */
 
 .heart {
   width: 60px;

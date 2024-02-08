@@ -26,7 +26,8 @@ function mostrarVideo() {
 function mostrarVideoShrek() {
   var videoContainer = document.getElementById("video-container");
   videoContainer.style.display = "block";
+
   setTimeout(function () {
-    window.location.href = "../HTML/namoro.html";
-  }, 30000);
+    window.location.href = "../HTML/carta.html";
+  }, 25000);
 }
