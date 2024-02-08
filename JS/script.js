@@ -28,6 +28,6 @@ function mostrarVideoShrek() {
   videoContainer.style.display = "block";
 
   setTimeout(function () {
-    window.location.href = "HTML/carta.html";
+    window.location.href = "../HTML/carta.html";
   }, 25000);
 }
